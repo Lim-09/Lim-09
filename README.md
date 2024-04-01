@@ -1,4 +1,13 @@
-### Hi there 👋
+## INTRODUCTION
+안녕하세요.
+
+## CAREER
+영남대 23학번 컴퓨터공학과 재학생
+
+## LINKS
+student: lim7090@yu.ac.kr
+private: gjini0907@gmail.com
+
 
 <!--
 **Lim-09/Lim-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
