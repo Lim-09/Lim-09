@@ -5,9 +5,6 @@ Hello there! I'm HwiJinLim.
 
 Yeungnam University <a href="https://www.yu.ac.kr/english/index.do" target="_blank"><img src=""/></a>
 
-### Student: lim7090@yu.ac.kr 
-### Personal: gjini0907@gmail.com
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-09&theme=github_dark_dimmed&show_icons=true)
 ### Tools 
 <img src="https://img.shields.io/badge/VS-5C2D91?style=plastic&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/VS_code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">
