@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-09&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-09&theme=github_dark_dimmed&show_icons=true)
 
 ## INTRODUCTION
 hello there!
