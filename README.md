@@ -6,7 +6,8 @@
 
 ## LINKS
 student: lim7090@yu.ac.kr 
-private: gjini0907@gmail.com
+
+personal: gjini0907@gmail.com
 
 ## I'm currently studying.....
 
