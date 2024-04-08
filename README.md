@@ -3,10 +3,7 @@
 ## INTRODUCTION
 hello there!
 
-안녕하세요
-
-## CAREER
-영남대 23학번 컴퓨터공학과 2학년 재학생
+안녕하세요. 영남 대학교 컴퓨터 공학과에서 재학생 임휘진 입니다.
 
 ## LINKS
 student: lim7090@yu.ac.kr 
