@@ -8,6 +8,10 @@ I'm **Hwi_Jin_Lim**. collegue student, the class of 2027
 I'm in **Yeungnam University**.... <a href="https://www.yu.ac.kr/english/index.do" target="_blank"><img src="https://private-user-images.githubusercontent.com/39161411/320518576-5610001f-31a9-4476-8b6d-47304d04a2c3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI1ODY0NjEsIm5iZiI6MTcxMjU4NjE2MSwicGF0aCI6Ii8zOTE2MTQxMS8zMjA1MTg1NzYtNTYxMDAwMWYtMzFhOS00NDc2LThiNmQtNDczMDRkMDRhMmMzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDA4VDE0MjI0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjMWM4MmFlNTJhYTZkYzA2NGU2Y2IwZWU0Y2Q4ODBkMWM0Y2I3MjgwNTA4MmYyYTIzMWViMGJhN2UwM2Q5ZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.DFWMEbkIs9_ruA6em3ClFgxjkPGw3yhx0RWkYVJCgjE"/><a/><br/>
 majoring in **Computer Engineering**<br/>
 
+
+
+
+
 I'm interested in software dev<br/>
 
 favorite quote is **"No pain, No gain"**
