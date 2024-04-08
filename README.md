@@ -1,5 +1,7 @@
 ## INTRODUCTION
-안녕하세요.
+hello there!
+
+안녕하세요
 
 ## CAREER
 영남대 23학번 컴퓨터공학과 2학년 재학생
