@@ -17,7 +17,7 @@ Favorite quote is **"No pain, No gain"** <br/>
 
 <img src="https://img.shields.io/badge/VS-5C2D91?style=plastic&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/VS_code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">
 
-## currently studying Launguages 
+## Currently studying....
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
 
 
