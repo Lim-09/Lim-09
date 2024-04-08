@@ -13,8 +13,8 @@ Favorite quote is **"No pain, No gain"** <br/>
 
 ![LHJ's github stats](https://github-readme-stats.vercel.app/api?username=Lim-09&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lim-09)](https://github.com/Lim-09/github-readme-stats)
-_____
+<a href="https://github.com/Lim-09/todo_list"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lim-09&repo=todo_list" /> </a><br/>
+
 ## 🔨Tools🔨
 
 <img src="https://img.shields.io/badge/VS-5C2D91?style=plastic&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/VS_code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">
