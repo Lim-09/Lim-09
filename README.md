@@ -8,10 +8,10 @@
 student: lim7090@yu.ac.kr
 private: gjini0907@gmail.com
 
-## I'm studying
-# C++
-# C
-# Python
+## I'm studying.....
+C++
+C
+Python
 
 
 <!--
