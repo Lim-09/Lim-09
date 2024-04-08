@@ -9,8 +9,11 @@ student: lim7090@yu.ac.kr
 private: gjini0907@gmail.com
 
 ## I'm currently studying.....
+
 C++
+
 C
+
 Python
 
 
