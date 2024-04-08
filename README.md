@@ -11,10 +11,10 @@ I'm interested in... **Software** dev and **AI** <br/>
 
 Favorite quote is **"No pain, No gain"** <br/>
 
-## Works
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![LHJ's github stats](https://github-readme-stats.vercel.app/api?username=Lim-09&show_icons=true&theme=transparent)
 
-![LHJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-09&theme=transparent&show_icons=true)
+## Works
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lim-09&repo=todo_list)
 _____
 ## 🔨Tools🔨
 
