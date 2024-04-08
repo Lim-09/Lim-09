@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-09&show_icons=true&theme=radical)
+
 ## INTRODUCTION
 hello there!
 
