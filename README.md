@@ -1,5 +1,5 @@
-<a href="gjini0907@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gjini0907@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="lim23@yu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/lim23@yu.ac.kr-02569B?style=flat&logo=YU&logoColor=white"/></a>
+<a href="mailto:gjini0907@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gjini0907@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:lim23@yu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/lim23@yu.ac.kr-02569B?style=flat&logo=YU&logoColor=white"/></a>
 
 Hello there! I'm HwiJinLim.
 
