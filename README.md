@@ -3,6 +3,8 @@
 
 Hello there! I'm HwiJinLim.
 
+Yeungnam University <a href="https://www.yu.ac.kr/english/index.do" target="_blank"><img src=""/></a>
+
 ### Student: lim7090@yu.ac.kr 
 ### Personal: gjini0907@gmail.com
 
