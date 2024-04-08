@@ -2,11 +2,16 @@
 안녕하세요.
 
 ## CAREER
-영남대 23학번 컴퓨터공학과 재학생
+영남대 23학번 컴퓨터공학과 2학년 재학생
 
 ## LINKS
 student: lim7090@yu.ac.kr
 private: gjini0907@gmail.com
+
+## I'm studying
+# C++
+# C
+# Python
 
 
 <!--
