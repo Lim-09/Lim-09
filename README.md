@@ -2,7 +2,7 @@
 <a href="mailto:gjini0907@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gjini0907@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="mailto:lim23@yu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/lim23@yu.ac.kr-02569B?style=flat&logo=YU&logoColor=white"/></a>
 
-<br/> I'm **Hwi_Jin_Lim**. collegue student, the class of 2027
+<br/> I'm. collegue student, the class of 2027
 
 I'm in **Yeungnam University**<a href="https://www.yu.ac.kr/english/index.do" target="_blank"><img src="https://private-user-images.githubusercontent.com/39161411/321604437-9d2f99dd-f932-4882-b9e9-5e207cf0e765.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU1ODc3MjQsIm5iZiI6MTcxNTU4NzQyNCwicGF0aCI6Ii8zOTE2MTQxMS8zMjE2MDQ0MzctOWQyZjk5ZGQtZjkzMi00ODgyLWI5ZTktNWUyMDdjZjBlNzY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTEzVDA4MDM0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlMWNiMmExNWI0MTg4Y2E0ZGQ2MDg3OTViYTYxMzI2NWVmZTRjYjQ0NTI2MzcyMzUyODI4MTlmNDgyMzFlNjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GmfUigqsk7GGgIb0PTxmQBEWVGJb3ESMO7VBM2VfG04"/><a/>and <br/>
 majoring in **Computer Engineering**<br/>
