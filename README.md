@@ -2,19 +2,12 @@
 <a href="mailto:gjini0907@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gjini0907@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="mailto:lim23@yu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/lim23@yu.ac.kr-02569B?style=flat&logo=YU&logoColor=white"/></a>
 
-
-I'm interested in... **Software** dev and **AI** <br/>
-
-Favorite quote is **"No pain, No gain"** <br/>
-
-![LHJ's github stats](https://github-readme-stats.vercel.app/api?username=Lim-09&show_icons=true&theme=transparent)
-
 ## 🔨Tools🔨
 
 <img src="https://img.shields.io/badge/VS-5C2D91?style=plastic&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/VS_code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">
 
-## Currently studying....
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
+## Currently studying
+<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"> <img 
 
 
 
