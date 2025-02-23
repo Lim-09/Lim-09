@@ -3,8 +3,8 @@
 <a href="mailto:lim23@yu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/lim23@yu.ac.kr-02569B?style=flat&logo=YU&logoColor=white"/></a>
 
 영남대 컴퓨터공학과 2학년 휴학생
--전공 공부
--개인 프로젝트 진행중
+</a>-전공 공부
+</a>-개인 프로젝트 진행중
 
 ## 🔨Tools🔨
 
