@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/VS-5C2D91?style=plastic&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/VS_code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">
 
 ## Currently studying
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"> <img 
+<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white">
 
 <!--
 **Lim-09/Lim-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
