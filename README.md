@@ -2,7 +2,9 @@
 <a href="mailto:gjini0907@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gjini0907@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="mailto:lim23@yu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/lim23@yu.ac.kr-02569B?style=flat&logo=YU&logoColor=white"/></a>
 
-
+영남대 컴퓨터공학과 2학년 휴학생
+-전공 공부
+-개인 프로젝트 진행중
 
 ## 🔨Tools🔨
 
